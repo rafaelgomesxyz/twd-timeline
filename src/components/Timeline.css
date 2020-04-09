@@ -1,0 +1,39 @@
+.timeline {
+	background-color: rgba(0, 0, 0, 0.875);
+	box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.75);
+	bottom: 0;
+	cursor: ew-resize;
+	height: 100px;
+	left: 0;
+	overflow: hidden;
+	position: absolute;
+	right: 0;
+	user-select: none;
+}
+
+.timeline-picker {
+	border-left: 2px solid rgba(255, 255, 255, 0.875);
+	height: 100%;
+	left: calc(50% - 1px);
+	position: absolute;
+	z-index: 2;
+}
+
+.timeline-moments {
+	display: inline-flex;
+	height: 100%;
+	position: relative;
+	z-index: 3;
+}
+
+.timeline-moments.animation {
+	transition: ease-in-out 1s;
+}
+
+.timeline-line {
+	border-top: 2px dashed rgba(255, 255, 255, 0.5);
+	position: absolute;
+	top: calc(50% - 1px);
+	width: 100%;
+	z-index: 1;
+}
