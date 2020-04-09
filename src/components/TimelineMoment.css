@@ -1,0 +1,70 @@
+.timeline-moment {
+	display: flex;
+	flex-direction: column;
+	height: 50%;
+	margin: 0 10px;
+	position: relative;
+}
+
+.timeline-moment:nth-child(2) {
+	margin-left: 50vw;
+}
+
+.timeline-moment:last-child {
+	margin-right: 50vw;
+}
+
+.timeline-moment:nth-child(2n) {
+	align-self: flex-start;
+	justify-content: end;
+}
+
+.timeline-moment:nth-child(2n + 1) {
+	align-self: flex-end;
+	justify-content: start;
+}
+
+.timeline-moment-marker {
+	background-color: rgba(255, 255, 255, 0.875);
+	border-radius: 50%;
+	cursor: pointer;
+	height: 10px;
+	left: calc(50% - 5px);
+	position: absolute;
+	width: 10px;
+	z-index: 4;
+}
+
+.timeline-moment:nth-child(2n) .timeline-moment-marker {
+	top: calc(100% - 5px);
+}
+
+.timeline-moment:nth-child(2n + 1) .timeline-moment-marker {
+	bottom: calc(100% - 5px);
+}
+
+.timeline-moment-title {
+	background-color: rgba(0, 0, 0, 0.75);
+	border-radius: 5px;
+	color: #ffffff;
+	font-size: 14px;
+	padding: 5px 10px;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.timeline-moment:nth-child(2n) .timeline-moment-title {
+	margin-bottom: 2.5px;
+}
+
+.timeline-moment:nth-child(2n + 1) .timeline-moment-title {
+	margin-top: 2.5px;
+}
+
+.timeline-moment-title div:first-child {
+	font-weight: bold;
+}
+
+.timeline-moment-title div:nth-child(2) {
+	font-size: 10px;
+}
