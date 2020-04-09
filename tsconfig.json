@@ -5,6 +5,8 @@
 		"noImplicitAny": true,
 		"module": "CommonJS",
 		"target": "ES6",
-		"jsx": "react"
+		"jsx": "react",
+		"resolveJsonModule": true,
+		"esModuleInterop": true
 	}
 }
