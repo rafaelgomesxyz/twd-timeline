@@ -1,13 +1,15 @@
-import { Public } from '@material-ui/icons';
 import * as React from 'react';
 import { hot } from 'react-hot-loader';
 import 'typeface-roboto';
 import './App.css';
+import { MomentView } from './components/MomentView';
+import { Timeline } from './components/Timeline';
 
 const App = () => {
 	return (
-		<div className="App">
-			<h1>Hello, World! <Public/></h1>			
+		<div className="app">
+			<MomentView/>
+			<Timeline/>
 		</div>
 	);
 };
