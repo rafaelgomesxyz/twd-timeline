@@ -1,0 +1,1188 @@
+{
+	"outbreak": "2010-08-02",
+	"moments": [
+		{
+			"date": "2010-07-27",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 1,
+					"episode": 1,
+					"title": "Highway 18 shootout"
+				}
+			]
+		},
+		{
+			"date": "2010-08-02",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 1,
+					"episode": 1,
+					"title": "Nick Clark first encounters a walker"
+				}
+			]
+		},
+		{
+			"date": "2010-08-04",
+			"events": [
+				{
+					"show": "TWD: Webisodes",
+					"season": 1,
+					"episode": 1,
+					"title": "Hannah sacrifices herself to save her children"
+				}
+			]
+		},
+		{
+			"date": "2010-08-05",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 1,
+					"episode": 3,
+					"title": "National Guard arrives in LA"
+				}
+			]
+		},
+		{
+			"date": "2010-08-15",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 1,
+					"episode": 6,
+					"title": "Shane attempts to save Rick"
+				}
+			]
+		},
+		{
+			"date": "2010-08-16",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 1,
+					"episode": 6,
+					"title": "Daniel leads a herd to an LA refugee camp"
+				}
+			]
+		},
+		{
+			"date": "2010-08-17",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 2,
+					"episode": 5,
+					"title": "Operation Cobalt is executed"
+				}
+			]
+		},
+		{
+			"date": "2010-08-20",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 2,
+					"episode": 3,
+					"title": "The Clarks investigate Flight 462's remains"
+				}
+			]
+		},
+		{
+			"date": "2010-08-22",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 2,
+					"episode": 5,
+					"title": "Alicia is saved from Connor"
+				}
+			]
+		},
+		{
+			"date": "2010-08-23",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 2,
+					"episode": 7,
+					"title": "Daniel burns down the Abigail estate"
+				}
+			]
+		},
+		{
+			"date": "2010-08-25",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 2,
+					"episode": 11,
+					"title": "The Clarks clear out the Rosarito Beach Hotel"
+				}
+			]
+		},
+		{
+			"date": "2010-08-27",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 2,
+					"episode": 8,
+					"title": "Nick is brought to the Colonia"
+				}
+			]
+		},
+		{
+			"date": "2010-09-02",
+			"events": [
+				{
+					"show": "fTWD",
+					"season": 2,
+					"episode": 13,
+					"title": "Chris abandons Travis"
+				}
+			]
+		},
+		{
+			"date": "2010-09-06",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 2,
+					"episode": 14,
+					"title": "Travis kills Brandom & Derek"
+				}
+			]
+		},
+		{
+			"date": "2010-09-07",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 2,
+					"episode": 15,
+					"title": "Nick & the Colonia people are ambushed and taken captive"
+				}
+			]
+		},
+		{
+			"date": "2010-09-08",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 3,
+					"episode": 1,
+					"title": "The Clarks escape the military base"
+				}
+			]
+		},
+		{
+			"date": "2010-09-11",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 3,
+					"episode": 4,
+					"title": "Daniel kills Dante and takes the Gonzalez Dam for Lola"
+				}
+			]
+		},
+		{
+			"date": "2010-09-13",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 10,
+					"title": "Alpha kills Frank and escapes the Baltimore shelter with Lydia"
+				}
+			]
+		},
+		{
+			"date": "2010-09-21",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 3,
+					"episode": 8,
+					"title": "Nick kills Jeremiah"
+				}
+			]
+		},
+		{
+			"date": "2010-09-29",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 1,
+					"episode": 1,
+					"title": "Rick wakes up from his coma"
+				}
+			]
+		},
+		{
+			"date": "2010-09-30",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 1,
+					"episode": 3,
+					"title": "Rick reunites with his family"
+				}
+			]
+		},
+		{
+			"date": "2010-10-01",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 3,
+					"episode": 12,
+					"title": "A horde swarms the Ranch"
+				}
+			]
+		},
+		{
+			"date": "2010-10-04",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 3,
+					"episode": 16,
+					"title": "Nick blows up the Gonzalez Dam in Baja California"
+				},
+				{
+					"show": "TWD",
+					"season": 1,
+					"episode": 6,
+					"title": "The Atlanta CDC self-destructs"
+				}
+			]
+		},
+		{
+			"date": "2010-10-07",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 2,
+					"episode": 2,
+					"title": "Rick arrives at the Greene's farm"
+				}
+			]
+		},
+		{
+			"date": "2010-10-11",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 2,
+					"episode": 7,
+					"title": "The group kill all of the walkers in the barn"
+				}
+			]
+		},
+		{
+			"date": "2010-10-22",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 2,
+					"episode": 13,
+					"title": "The Greene farm is overrun"
+				}
+			]
+		},
+		{
+			"date": "2011-03-23",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 8,
+					"title": "Madison takes the Deli Diamond Baseball Stadium"
+				}
+			]
+		},
+		{
+			"date": "2011-05-28",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 3,
+					"episode": 1,
+					"title": "The group finds and takes the Prison"
+				}
+			]
+		},
+		{
+			"date": "2011-05-31",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 3,
+					"episode": 3,
+					"title": "Andrea & Michonne are brought to Woodbury"
+				}
+			]
+		},
+		{
+			"date": "2011-06-06",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 3,
+					"episode": 4,
+					"title": "Lori is killed giving birth to Judith"
+				}
+			]
+		},
+		{
+			"date": "2011-06-07",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 3,
+					"episode": 8,
+					"title": "The group save Glenn & Maggie from Woodbury"
+				}
+			]
+		},
+		{
+			"date": "2011-06-11",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 3,
+					"episode": 12,
+					"title": "Rick reunites with Morgan"
+				}
+			]
+		},
+		{
+			"date": "2011-06-17",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 3,
+					"episode": 16,
+					"title": "The Governor slaughters his Woodbury army"
+				}
+			]
+		},
+		{
+			"date": "2011-06-21",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 6,
+					"episode": 4,
+					"title": "Morgan is taken in by Eastman"
+				}
+			]
+		},
+		{
+			"date": "2011-06-24",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 5,
+					"title": "John meets and takes in June"
+				}
+			]
+		},
+		{
+			"date": "2011-06-27",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 6,
+					"episode": 2,
+					"title": "Enid arrives at Alexandria"
+				}
+			]
+		},
+		{
+			"date": "2011-07-27",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 4,
+					"episode": 16,
+					"title": "Rick and Hershel begin farming at the prison"
+				}
+			]
+		},
+		{
+			"date": "2011-08-17",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 4,
+					"episode": 6,
+					"title": "The Governor meets Lilly, Tara and Meghan"
+				}
+			]
+		},
+		{
+			"date": "2011-12-07",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 4,
+					"episode": 13,
+					"title": "Bob Stookey is found and taken in by Daryl & Glenn"
+				}
+			]
+		},
+		{
+			"date": "2011-12-14",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 4,
+					"episode": 1,
+					"title": "An infection breaks out within the Prison"
+				}
+			]
+		},
+		{
+			"date": "2011-12-17",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 4,
+					"episode": 4,
+					"title": "Rick exiles Carol from the Prison"
+				}
+			]
+		},
+		{
+			"date": "2011-12-18",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 4,
+					"episode": 8,
+					"title": "The Governor invades and destroys the Prison"
+				}
+			]
+		},
+		{
+			"date": "2011-12-21",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 4,
+					"episode": 13,
+					"title": "Beth is abducted by Atlanta police officers"
+				}
+			]
+		},
+		{
+			"date": "2011-12-22",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 4,
+					"episode": 15,
+					"title": "Glenn reunites with Maggie"
+				}
+			]
+		},
+		{
+			"date": "2011-12-23",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 5,
+					"episode": 4,
+					"title": "Beth awakens at the Grady Memorial Hospital"
+				}
+			]
+		},
+		{
+			"date": "2011-12-25",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 5,
+					"episode": 1,
+					"title": "The group escapes and destroys Terminus"
+				}
+			]
+		},
+		{
+			"date": "2011-12-28",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 5,
+					"episode": 8,
+					"title": "Beth & Dawn are killed at the Grady Memorial Hospital"
+				}
+			]
+		},
+		{
+			"date": "2012-01-06",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 6,
+					"episode": 4,
+					"title": "Morgan begins his journey to find Rick"
+				}
+			]
+		},
+		{
+			"date": "2012-01-14",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 5,
+					"episode": 9,
+					"title": "Tyreese is bitten and dies from blood-loss"
+				}
+			]
+		},
+		{
+			"date": "2012-01-20",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 5,
+					"episode": 10,
+					"title": "Aaron introduces himself to the group"
+				}
+			]
+		},
+		{
+			"date": "2012-01-21",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 5,
+					"episode": 12,
+					"title": "The group arrives at Alexandria"
+				}
+			]
+		},
+		{
+			"date": "2012-01-28",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 5,
+					"episode": 14,
+					"title": "Noah is devoured by walkers"
+				}
+			]
+		},
+		{
+			"date": "2012-01-30",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 5,
+					"episode": 16,
+					"title": "Rick kills Pete"
+				}
+			]
+		},
+		{
+			"date": "2012-02-04",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 6,
+					"episode": 1,
+					"title": "The Quarry herd breaks free"
+				}
+			]
+		},
+		{
+			"date": "2012-02-05",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 6,
+					"episode": 8,
+					"title": "Alexandria is swarmed by the Quarry herd"
+				}
+			]
+		},
+		{
+			"date": "2012-03-08",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 6,
+					"episode": 11,
+					"title": "The group are brought to Hilltop"
+				}
+			]
+		},
+		{
+			"date": "2012-03-09",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 6,
+					"episode": 12,
+					"title": "The group raids the Saviours satellite outpost"
+				}
+			]
+		},
+		{
+			"date": "2012-03-19",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 6,
+					"episode": 14,
+					"title": "Dwight kills Denise"
+				}
+			]
+		},
+		{
+			"date": "2012-03-21",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 7,
+					"episode": 1,
+					"title": "Negan kills Glenn & Abraham"
+				}
+			]
+		},
+		{
+			"date": "2012-03-22",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 2,
+					"title": "The Vultures arrive at the Clark's stadium"
+				}
+			]
+		},
+		{
+			"date": "2012-03-23",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 7,
+					"episode": 6,
+					"title": "Tara discovers Oceanside"
+				}
+			]
+		},
+		{
+			"date": "2012-03-25",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 7,
+					"episode": 8,
+					"title": "Negan kills Spencer and takes Eugene from Alexandria"
+				}
+			]
+		},
+		{
+			"date": "2012-03-26",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 7,
+					"episode": 9,
+					"title": "The group proposes and alliance with King Ezekiel"
+				}
+			]
+		},
+		{
+			"date": "2012-03-27",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 7,
+					"episode": 10,
+					"title": "The group meets the Scavengers"
+				}
+			]
+		},
+		{
+			"date": "2012-04-01",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 7,
+					"episode": 14,
+					"title": "Morgan kills Richard"
+				}
+			]
+		},
+		{
+			"date": "2012-04-02",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 7,
+					"episode": 16,
+					"title": "The first battle of Alexandria"
+				}
+			]
+		},
+		{
+			"date": "2012-04-13",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 8,
+					"episode": 1,
+					"title": "The allied attack on the Sanctuary"
+				}
+			]
+		},
+		{
+			"date": "2012-04-14",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 8,
+					"episode": 8,
+					"title": "The second battle of Alexandria"
+				}
+			]
+		},
+		{
+			"date": "2012-04-15",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 8,
+					"episode": 9,
+					"title": "Carl kills himself before turning"
+				}
+			]
+		},
+		{
+			"date": "2012-04-16",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 8,
+					"title": "A herd swarms the Clark's stadium"
+				}
+			]
+		},
+		{
+			"date": "2012-04-19",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 8,
+					"episode": 16,
+					"title": "Rick spares Negan and ends the war with the Saviours"
+				}
+			]
+		},
+		{
+			"date": "2012-06-09",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 1,
+					"title": "Morgan flees and abandons the Junkyard"
+				}
+			]
+		},
+		{
+			"date": "2012-10-03",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 1,
+					"title": "Morgan meets John Dorie"
+				}
+			]
+		},
+		{
+			"date": "2012-10-04",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 3,
+					"title": "Charlie shoots and kills Nick Clark"
+				}
+			]
+		},
+		{
+			"date": "2012-10-06",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 7,
+					"title": "Alicia kills Mel & the remaining Vultures"
+				}
+			]
+		},
+		{
+			"date": "2012-11-05",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 9,
+					"title": "A storm separates Morgan's group"
+				}
+			]
+		},
+		{
+			"date": "2012-11-09",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 14,
+					"title": "Martha attacks Morgan's group with Althea's SWAT van"
+				}
+			]
+		},
+		{
+			"date": "2012-11-12",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 4,
+					"episode": 16,
+					"title": "Morgan's group move into a Denim Factory"
+				}
+			]
+		},
+		{
+			"date": "2013-03-12",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 5,
+					"episode": 1,
+					"title": "Morgan's group crash their plane near the Texas Power Plant"
+				}
+			]
+		},
+		{
+			"date": "2013-03-13",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 5,
+					"episode": 2,
+					"title": "Strand reunites with Daniel"
+				}
+			]
+		},
+		{
+			"date": "2013-03-14",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 5,
+					"episode": 3,
+					"title": "John and June meet Dwight"
+				}
+			]
+		},
+		{
+			"date": "2013-03-15",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 5,
+					"episode": 5,
+					"title": "Isabelle refuels and leaves in her CRM Helicopter"
+				}
+			]
+		},
+		{
+			"date": "2013-03-17",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 5,
+					"episode": 8,
+					"title": "Morgan's group escapes the Nuclear meltdown"
+				}
+			]
+		},
+		{
+			"date": "2013-04-21",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 5,
+					"episode": 9,
+					"title": "Wes watches Althea's documentary"
+				}
+			]
+		},
+		{
+			"date": "2013-04-25",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 5,
+					"episode": 13,
+					"title": "Virginia arrives at the oil fields and kills Logan"
+				}
+			]
+		},
+		{
+			"date": "2013-04-27",
+			"events": [
+				{
+					"show": "FTWD",
+					"season": 5,
+					"episode": 16,
+					"title": "Morgan's group are separated by Virginia and Morgan is shot"
+				}
+			]
+		},
+		{
+			"date": "2013-09-21",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 1,
+					"title": "Maggie executes Gregory"
+				}
+			]
+		},
+		{
+			"date": "2013-11-20",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 5,
+					"title": "Rick saves the communities and is taken by the CRM"
+				}
+			]
+		},
+		{
+			"date": "2014-07-19",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 14,
+					"title": "Michonne and Daryl save Judith from Jocelyn"
+				}
+			]
+		},
+		{
+			"date": "2017-07-30",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 2,
+					"title": "Alpha and Lydia meet Beta"
+				}
+			]
+		},
+		{
+			"date": "2019-11-19",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 5,
+					"title": "Judith saves Magna's group"
+				}
+			]
+		},
+		{
+			"date": "2019-11-22",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 8,
+					"title": "The Whisperers reveal themselves and kill Jesus"
+				}
+			]
+		},
+		{
+			"date": "2019-11-25",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 11,
+					"title": "Alpha arrives at the Hilltop and Lydia is returned to her"
+				}
+			]
+		},
+		{
+			"date": "2019-11-27",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 13,
+					"title": "Daryl fights Beta and his scout crew"
+				}
+			]
+		},
+		{
+			"date": "2019-11-28",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 15,
+					"title": "The Kingdom's community fair commences"
+				}
+			]
+		},
+		{
+			"date": "2019-11-29",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 15,
+					"title": "The group finds Alpha's border"
+				}
+			]
+		},
+		{
+			"date": "2020-02-28",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 9,
+					"episode": 16,
+					"title": "The Kingdom falls and is abandoned"
+				}
+			]
+		},
+		{
+			"date": "2020-08-07",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 8,
+					"title": "Dante arrives at Alexandria"
+				}
+			]
+		},
+		{
+			"date": "2020-11-23",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 1,
+					"title": "A satellite crashes near Oceanside"
+				}
+			]
+		},
+		{
+			"date": "2020-11-28",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 3,
+					"title": "The group meets Alpha at her border"
+				}
+			]
+		},
+		{
+			"date": "2020-11-30",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 4,
+					"title": "Walkers breach Hilltop"
+				}
+			]
+		},
+		{
+			"date": "2020-12-02",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 6,
+					"title": "Negan is taken captive by the Whisperers"
+				}
+			]
+		},
+		{
+			"date": "2020-12-04",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 7,
+					"title": "Dante kills Saddiq"
+				}
+			]
+		},
+		{
+			"date": "2020-12-05",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 8,
+					"title": "Michonne sails off with Virgil"
+				}
+			]
+		},
+		{
+			"date": "2020-12-07",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 10,
+					"title": "Beta infiltrates and attacks Alexandria"
+				}
+			]
+		},
+		{
+			"date": "2020-12-08",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 11,
+					"title": "The Whisperer battle of Hilltop"
+				}
+			]
+		},
+		{
+			"date": "2020-12-09",
+			"events": [
+				{
+					"show": "TWD",
+					"season": 10,
+					"episode": 12,
+					"title": "Negan kills Alpha"
+				}
+			]
+		}
+	]
+}
