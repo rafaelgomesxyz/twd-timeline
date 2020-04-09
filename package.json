@@ -4,7 +4,8 @@
 	"description": "An interactive timeline for The Walking Dead universe.",
 	"main": "index.js",
 	"scripts": {
-		"build": "webpack --mode development",
+		"build": "webpack --mode production",
+		"dev": "webpack --mode development",
 		"start": "webpack-dev-server --mode development",
 		"test": "echo \"Error: No test specified.\" && exit 1"
 	},
