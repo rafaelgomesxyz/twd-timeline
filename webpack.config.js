@@ -42,13 +42,13 @@ module.exports = (env, argv) => {
 		},
 		output: {
 			path: path.resolve(__dirname, 'docs/'),
-			publicPath: '/docs/',
+			publicPath: '/',
 			filename: 'index.js',
 		},
 		devServer: {
-			contentBase: path.join(__dirname, 'public/'),
+			contentBase: path.join(__dirname, 'docs/'),
 			port: 3000,
-			publicPath: 'http://localhost:3000/docs/',
+			publicPath: 'http://localhost:3000/',
 			hotOnly: true,
 		},
 		plugins: [
